@@ -8,9 +8,9 @@ Use security OSINT tool Criminal IP (criminalip.io) to identify IoT equipment co
 
 * [criminalip.io](https://www.criminalip.io) API Key
 
-You need to create a free beta account and receive an API key at https://www.criminalip.io in order to use sherlocksigth.
+You need to create an account and receive an API key at https://www.criminalip.io in order to use sherlocksigth.
 
-All APIs are free because it is a currently a beta service. You can find and use API key that is assigned to your account at https://www.criminalip.io/mypage/information
+Even if you have just a free account, you can access an API key. You can find and use the API key that is assigned to your account at https://www.criminalip.io/mypage/information.
 
 
 
