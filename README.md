@@ -1,7 +1,6 @@
 # Introduction
 
-Use security OSINT tool Criminal IP (criminalip.io) to identify IoT equipment connected to the internet. You can use CLI to search for IoT equipment and view details of specific IP addresses from the retrieved data
-
+I hope you can explore the functionality of Criminal IP's security OSINT tool for identifying internet-connected IoT devices and utilizing the CLI to search and access detailed information about specific IP addresses from the obtained data.
 
 
 # Prerequisites
